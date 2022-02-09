@@ -9,5 +9,9 @@
 
 
 
-# Bahavioural 
-     
+# Bahavioural
+
+![image](https://user-images.githubusercontent.com/98815562/153247983-9de4be0a-4748-41f6-91a0-3efc2022dd89.png)
+
+ ![image](https://user-images.githubusercontent.com/98815562/153248537-cc2dd604-ea50-48c8-9484-896d87fa339b.png)
+    
